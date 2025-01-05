@@ -23,8 +23,8 @@ Task:
 
 Imagine yourself as Peter Pandey and perform the following task to keep up the trust with your manager Tony Sharma.  
 
-Go through the metadata and analyse the datasets thoroughly. This is the most fundamental step. 
-Begin your analysis by referring to the ‘primary_and_secondary_questions.pdf’. You can use any tool of your choice (Python, SQL, PowerBI, Tableau, Excel) to analyse and answer these questions. More instructions are provided in this document. 
-Design a dashboard with your metrics and analysis. The dashboard should be self-explanatory and easy to understand. 
-Check “ad-hoc-requests.pdf” - this document includes important business questions, requiring SQL-based report generation. 
-You need to present this to the Chief of Operations - hence you need to create a convincing presentation with actionable insights.   </p>
+-Go through the metadata and analyse the datasets thoroughly. This is the most fundamental step. 
+-Begin your analysis by referring to the ‘primary_and_secondary_questions.pdf’. You can use any tool of your choice (Python, SQL, PowerBI, Tableau, Excel) to analyse and answer these questions. More instructions are provided in this document. 
+-Design a dashboard with your metrics and analysis. The dashboard should be self-explanatory and easy to understand. 
+-Check “ad-hoc-requests.pdf” - this document includes important business questions, requiring SQL-based report generation. 
+-You need to present this to the Chief of Operations - hence you need to create a convincing presentation with actionable insights.   </p>
